@@ -3,8 +3,8 @@
 | Branches  | Languages  |
 | :-------: | :--------: |
 | Sonicwall | Powershell |
-| Sruba     | Powershell |
-| Seeam     | Powershell |
+| Aruba     | Powershell |
+| Veeam     | Powershell |
 
 ```(console)
 git clone https://github.com/SysmaxFR/scripts.git --branch <branche>
